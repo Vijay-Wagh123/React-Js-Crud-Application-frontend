@@ -1,8 +1,41 @@
-# React + Vite
+# Full-Stack CRUD Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **Full-Stack CRUD Application** that consists of a **React.js frontend** and an **ASP.NET Web API backend**. The project showcases CRUD operations (Create, Read, Update, Delete) while leveraging modern tools and libraries for a seamless user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+
+### Frontend (React.js):
+- **CRUD Operations**: User-friendly interface to perform CRUD tasks.
+- **Axios**: Manages API requests.
+- **React Toastify**: Provides elegant notifications for user actions.
+- **Bootstrap**: Ensures a responsive and modern UI design.
+
+### Backend (ASP.NET Web API):
+- **RESTful API**: Provides endpoints for data operations.
+- **Entity Framework**: Handles database interactions.
+- **CORS**: Ensures secure communication between the frontend and backend.
+
+---
+
+## 🛠️ Technologies Used
+
+### Frontend:
+- **React.js**
+- **Axios**
+- **React Toastify**
+- **Bootstrap**
+- **CORS**
+
+### Backend:
+- **ASP.NET Web API**
+- **Entity Framework**
+- **SQL Server**
+
+To see the backend implementation, visit the repository:  
+[React JS CRUD Application Backend](https://github.com/Vijay-Wagh123/React-Js-Crud-Application-Backend.git)
+
+---
+
+
